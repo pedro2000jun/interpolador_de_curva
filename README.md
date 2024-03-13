@@ -1,2 +1,2 @@
-# interpolador_de_curva
+# Interpolador de curva
 Interpolador de curvas.
